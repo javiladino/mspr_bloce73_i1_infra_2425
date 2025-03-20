@@ -36,5 +36,3 @@ Parties prenantes :
 - EL BOUZIDI Hudaifa
 - LAWANI Cheik Anas Deen
 - LADINO Javier
-
-
